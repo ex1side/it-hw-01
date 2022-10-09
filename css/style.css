@@ -1,0 +1,33 @@
+main {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.icons > svg {
+    fill: #dfc5b9;
+}
+
+.heading {
+    color: #dfc5b9;
+    font-weight: bold;
+}
+
+.round-picture {
+    position: absolute;
+    top: 256px;
+    left: 60px;
+    height: 512px;
+    width: 512px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.location-text {
+    list-style: none;
+    position: absolute;
+    right: 250px;
+    top: 320px;
+    font-size: 30px;
+    line-height: 40px;
+    width: 400px;
+}
