@@ -1,4 +1,4 @@
-main {
+header {
     text-align: center;
     margin: 0 auto;
 }
@@ -23,7 +23,6 @@ main {
 }
 
 .location-text {
-    list-style: none;
     position: absolute;
     left: 720px;
     top: 320px;
