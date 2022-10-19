@@ -10,6 +10,7 @@
 .heading {
     color: #dfc5b9;
     font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .round-picture {
@@ -22,11 +23,12 @@
     object-fit: cover;
 }
 
-.location-text {
+.text {
     position: absolute;
     left: 720px;
     top: 320px;
     font-size: 30px;
     line-height: 40px;
     width: 400px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
